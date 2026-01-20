@@ -12,7 +12,7 @@ This document consolidates translation proposals from three AI models: Gemini, O
 | nav.classes | Classes | வகுப்புகள் | வகுப்புகள் | வகுப்புகள் | வகுப்புகள் |
 | nav.enrollment | Enrollment | சேர்க்கை | சேர்க்கை | சேர்க்கை | சேர்க்கை |
 | nav.logout | Logout | வெளியேறு | வெளியேறு | வெளியேறு | வெளியேறு |
-| nav.login | Login | உள்நுழைவு | உள்நுழை | உள்நுழைவு | உள்நுழைவு |
+| nav.login | Login | உள்நுழைவு | உள்நுழைவு | உள்நுழைவு | உள்நுழைவு |
 | nav.role | Switch role | பங்கை மாற்றவும் | பயனர் வகையை மாற்று | பங்கை மாற்றவும் | பங்கை மாற்றவும் |
 | nav.about | About us | எங்களைப் பற்றி | எங்களைப் பற்றி | எங்களைப் பற்றி | எங்களைப் பற்றி |
 | nav.register | Register | பதிவுசெய்க | பதிவு செய் | பதிவுசெய்க | பதிவுசெய்க |
@@ -21,7 +21,7 @@ This document consolidates translation proposals from three AI models: Gemini, O
 | nav.calendar | Calendar | நாட்காட்டி | நாட்காட்டி | நாட்காட்டி | நாட்காட்டி |
 | nav.textbooks | Text books | பாடப்புத்தகங்கள் | பாடப்புத்தகங்கள் | பாடப்புத்தகங்கள் | பாடப்புத்தகங்கள் |
 | nav.donate | Donate | நன்கொடை | நன்கொடை | நன்கொடை | நன்கொடை |
-| nav.contact | Contact Us | தொடர்பு | தொடர்பு கொள்ள | தொடர்பு | எங்களைத் தொடர்புகொள்ள |
+| nav.contact | Contact Us | தொடர்பு | எங்களைத் தொடர்பு கொள்ள | தொடர்பு | எங்களைத் தொடர்புகொள்ள |
 | nav.events | Events | நிகழ்வுகள் | நிகழ்வுகள் | நிகழ்வுகள் | நிகழ்வுகள் |
 | nav.profile | Profile | சுயவிவரம் | சுயவிவரம் | சுயவிவரம் | சுயவிவரம் |
 | nav.switchRole | Switch Role | பங்கை மாற்று | பயனர் வகையை மாற்று | பங்கை மாற்று | பங்கை மாற்று |
@@ -390,274 +390,274 @@ This document consolidates translation proposals from three AI models: Gemini, O
 
 | Key | English | Tamil | Gemini | OpenAI | Claude |
 |-----|---------|-------|--------|--------|--------|
-| admin.portal.title | Admin Portal | நிர்வாக வாயில் |  |  | நிர்வாக வாயில் |
-| admin.nav.dashboard | Dashboard | கட்டுப்பலகை |  |  | கட்டுப்பலகை |
-| admin.nav.students | Students | மாணவர்கள் |  |  | மாணவர்கள் |
-| admin.nav.allStudents | All Students | அனைத்து மாணவர்கள் |  |  | அனைத்து மாணவர்கள் |
-| admin.nav.pendingReview | Pending Review | நிலுவையில் உள்ள மதிப்பாய்வு |  |  | நிலுவையில் உள்ள மதிப்பாய்வு |
-| admin.nav.teachers | Teachers | ஆசிரியர்கள் |  |  | ஆசிரியர்கள் |
-| admin.nav.allTeachers | All Teachers | அனைத்து ஆசிரியர்கள் |  |  | அனைத்து ஆசிரியர்கள் |
-| admin.nav.inviteTeacher | Invite Teacher | ஆசிரியரை அழைக்க |  |  | ஆசிரியரை அழைக்க |
-| admin.nav.assignToClasses | Assign to Classes | வகுப்புகளுக்கு நியமிக்க |  |  | வகுப்புகளுக்கு நியமிக்க |
-| admin.nav.classes | Classes | வகுப்புகள் |  |  | வகுப்புகள் |
-| admin.nav.allClasses | All Classes | அனைத்து வகுப்புகள் |  |  | அனைத்து வகுப்புகள் |
-| admin.nav.createClass | Create Class | வகுப்பை உருவாக்கு |  |  | வகுப்பை உருவாக்கு |
-| admin.nav.grades | Grades | தரங்கள் |  |  | தரங்கள் |
-| admin.nav.resources | Resources | வளங்கள் |  |  | வளங்கள் |
-| admin.nav.textbooks | Textbooks | பாடப்புத்தகங்கள் |  |  | பாடப்புத்தகங்கள் |
-| admin.nav.volunteers | Volunteers | தன்னார்வலர்கள் |  |  | தன்னார்வலர்கள் |
-| admin.nav.allVolunteers | All Volunteers | அனைத்து தன்னார்வலர்கள் |  |  | அனைத்து தன்னார்வலர்கள் |
-| admin.nav.analytics | Analytics | பகுப்பாய்வு |  |  | பகுப்பாய்வு |
-| admin.nav.attendanceAnalytics | Attendance Analytics | வருகைப் பகுப்பாய்வு |  |  | வருகைப் பகுப்பாய்வு |
-| admin.nav.content | Content | உள்ளடக்கம் |  |  | உள்ளடக்கம் |
-| admin.nav.heroContent | Hero Content | முகப்பு உள்ளடக்கம் |  |  | முகப்பு உள்ளடக்கம் |
-| admin.nav.flashNews | Flash News | விரைவுச் செய்திகள் |  |  | விரைவுச் செய்திகள் |
-| admin.nav.newsPosts | News Posts | செய்தி இடுகைகள் |  |  | செய்தி இடுகைகள் |
-| admin.nav.calendar | Calendar | நாட்காட்டி |  |  | நாட்காட்டி |
-| admin.nav.allEvents | All Events | அனைத்து நிகழ்வுகள் |  |  | அனைத்து நிகழ்வுகள் |
-| admin.nav.createEvent | Create Event | நிகழ்வை உருவாக்கு |  |  | நிகழ்வை உருவாக்கு |
+| admin.portal.title | Admin Portal | நிர்வாக வாயில் | நிர்வாக நுழைவாயில் |  | நிர்வாக வாயில் |
+| admin.nav.dashboard | Dashboard | கட்டுப்பலகை | கட்டுப்பாட்டுப் பலகை |  | கட்டுப்பலகை |
+| admin.nav.students | Students | மாணவர்கள் | மாணவர்கள் |  | மாணவர்கள் |
+| admin.nav.allStudents | All Students | அனைத்து மாணவர்கள் | அனைத்து மாணவர்கள் |  | அனைத்து மாணவர்கள் |
+| admin.nav.pendingReview | Pending Review | நிலுவையில் உள்ள மதிப்பாய்வு | மதிப்பாய்வு நிலுவையில் உள்ளது |  | நிலுவையில் உள்ள மதிப்பாய்வு |
+| admin.nav.teachers | Teachers | ஆசிரியர்கள் | ஆசிரியர்கள் |  | ஆசிரியர்கள் |
+| admin.nav.allTeachers | All Teachers | அனைத்து ஆசிரியர்கள் | அனைத்து ஆசிரியர்கள் |  | அனைத்து ஆசிரியர்கள் |
+| admin.nav.inviteTeacher | Invite Teacher | ஆசிரியரை அழைக்க | ஆசிரியரை அழைக்க |  | ஆசிரியரை அழைக்க |
+| admin.nav.assignToClasses | Assign to Classes | வகுப்புகளுக்கு நியமிக்க | வகுப்புகளுக்கு ஒதுக்கு |  | வகுப்புகளுக்கு நியமிக்க |
+| admin.nav.classes | Classes | வகுப்புகள் | வகுப்புகள் |  | வகுப்புகள் |
+| admin.nav.allClasses | All Classes | அனைத்து வகுப்புகள் | அனைத்து வகுப்புகள் |  | அனைத்து வகுப்புகள் |
+| admin.nav.createClass | Create Class | வகுப்பை உருவாக்கு | வகுப்பை உருவாக்கு |  | வகுப்பை உருவாக்கு |
+| admin.nav.grades | Grades | தரங்கள் | தரங்கள் |  | தரங்கள் |
+| admin.nav.resources | Resources | வளங்கள் | வளங்கள் |  | வளங்கள் |
+| admin.nav.textbooks | Textbooks | பாடப்புத்தகங்கள் | பாடப்புத்தகங்கள் |  | பாடப்புத்தகங்கள் |
+| admin.nav.volunteers | Volunteers | தன்னார்வலர்கள் | தன்னார்வலர்கள் |  | தன்னார்வலர்கள் |
+| admin.nav.allVolunteers | All Volunteers | அனைத்து தன்னார்வலர்கள் | அனைத்து தன்னார்வலர்கள் |  | அனைத்து தன்னார்வலர்கள் |
+| admin.nav.analytics | Analytics | பகுப்பாய்வு | பகுப்பாய்வு |  | பகுப்பாய்வு |
+| admin.nav.attendanceAnalytics | Attendance Analytics | வருகைப் பகுப்பாய்வு | வருகைப் பகுப்பாய்வு |  | வருகைப் பகுப்பாய்வு |
+| admin.nav.content | Content | உள்ளடக்கம் | உள்ளடக்கம் |  | உள்ளடக்கம் |
+| admin.nav.heroContent | Hero Content | முகப்பு உள்ளடக்கம் | முதன்மை உள்ளடக்கம் |  | முகப்பு உள்ளடக்கம் |
+| admin.nav.flashNews | Flash News | விரைவுச் செய்திகள் | முக்கியச் செய்திகள் |  | விரைவுச் செய்திகள் |
+| admin.nav.newsPosts | News Posts | செய்தி இடுகைகள் | செய்திப் பதிவுகள் |  | செய்தி இடுகைகள் |
+| admin.nav.calendar | Calendar | நாட்காட்டி | நாட்காட்டி |  | நாட்காட்டி |
+| admin.nav.allEvents | All Events | அனைத்து நிகழ்வுகள் | அனைத்து நிகழ்வுகள் |  | அனைத்து நிகழ்வுகள் |
+| admin.nav.createEvent | Create Event | நிகழ்வை உருவாக்கு | நிகழ்வை உருவாக்கு |  | நிகழ்வை உருவாக்கு |
 
 ## Super Admin Navigation
 
 | Key | English | Tamil | Gemini | OpenAI | Claude |
 |-----|---------|-------|--------|--------|--------|
-| superAdmin.title | Super Admin | தலைமை நிர்வாகி |  |  | தலைமை நிர்வாகி |
-| superAdmin.titleReadonly | Super Admin (View Only) | தலைமை நிர்வாகி (பார்வை மட்டும்) |  |  | தலைமை நிர்வாகி (பார்வை மட்டும்) |
-| superAdmin.nav.adminUsers | Admin Users | நிர்வாக பயனர்கள் |  |  | நிர்வாக பயனர்கள் |
-| superAdmin.nav.featureFlags | Feature Flags | அம்ச கொடிகள் |  |  | அம்ச கொடிகள் |
-| superAdmin.nav.auditLog | Audit Log | தணிக்கைப் பதிவு |  |  | தணிக்கைப் பதிவு |
-| superAdmin.nav.security | Security | பாதுகாப்பு |  |  | பாதுகாப்பு |
-| superAdmin.nav.settings | Settings | அமைப்புகள் |  |  | அமைப்புகள் |
-| superAdmin.nav.recovery | Recovery | மீட்பு |  |  | மீட்பு |
-| superAdmin.nav.dataExport | Data Export | தரவு ஏற்றுமதி |  |  | தரவு ஏற்றுமதி |
+| superAdmin.title | Super Admin | தலைமை நிர்வாகி | முதன்மை நிர்வாகி |  | தலைமை நிர்வாகி |
+| superAdmin.titleReadonly | Super Admin (View Only) | தலைமை நிர்வாகி (பார்வை மட்டும்) | முதன்மை நிர்வாகி (பார்வை மட்டும்) |  | தலைமை நிர்வாகி (பார்வை மட்டும்) |
+| superAdmin.nav.adminUsers | Admin Users | நிர்வாக பயனர்கள் | நிர்வாகப் பயனர்கள் |  | நிர்வாக பயனர்கள் |
+| superAdmin.nav.featureFlags | Feature Flags | அம்ச கொடிகள் | அம்சக் குறிகள் |  | அம்ச கொடிகள் |
+| superAdmin.nav.auditLog | Audit Log | தணிக்கைப் பதிவு | தணிக்கைப் பதிவு |  | தணிக்கைப் பதிவு |
+| superAdmin.nav.security | Security | பாதுகாப்பு | பாதுகாப்பு |  | பாதுகாப்பு |
+| superAdmin.nav.settings | Settings | அமைப்புகள் | அமைப்புகள் |  | அமைப்புகள் |
+| superAdmin.nav.recovery | Recovery | மீட்பு | மீட்பு |  | மீட்பு |
+| superAdmin.nav.dataExport | Data Export | தரவு ஏற்றுமதி | தரவு ஏற்றுமதி |  | தரவு ஏற்றுமதி |
 
 ## Teacher Portal Navigation
 
 | Key | English | Tamil | Gemini | OpenAI | Claude |
 |-----|---------|-------|--------|--------|--------|
-| teacher.portal.title | Teacher Portal | ஆசிரியர் வாயில் |  |  | ஆசிரியர் வாயில் |
-| teacher.nav.dashboard | Dashboard | கட்டுப்பலகை |  |  | கட்டுப்பலகை |
-| teacher.nav.classes | Classes | வகுப்புகள் |  |  | வகுப்புகள் |
-| teacher.nav.myClasses | My Classes | எனது வகுப்புகள் |  |  | எனது வகுப்புகள் |
-| teacher.nav.attendance | Attendance | வருகை |  |  | வருகை |
-| teacher.nav.markToday | Mark Today | இன்று குறிக்க |  |  | இன்று குறிக்க |
-| teacher.nav.history | History | வரலாறு |  |  | வரலாறு |
-| teacher.nav.communication | Communication | தொடர்பு |  |  | தொடர்பு |
-| teacher.nav.messages | Messages | செய்திகள் |  |  | செய்திகள் |
+| teacher.portal.title | Teacher Portal | ஆசிரியர் வாயில் | ஆசிரியர் நுழைவாயில் |  | ஆசிரியர் வாயில் |
+| teacher.nav.dashboard | Dashboard | கட்டுப்பலகை | கட்டுப்பாட்டுப் பலகை |  | கட்டுப்பலகை |
+| teacher.nav.classes | Classes | வகுப்புகள் | வகுப்புகள் |  | வகுப்புகள் |
+| teacher.nav.myClasses | My Classes | எனது வகுப்புகள் | எனது வகுப்புகள் |  | எனது வகுப்புகள் |
+| teacher.nav.attendance | Attendance | வருகை | வருகை |  | வருகை |
+| teacher.nav.markToday | Mark Today | இன்று குறிக்க | இன்றைய வருகையைக் குறி |  | இன்று குறிக்க |
+| teacher.nav.history | History | வரலாறு | வரலாறு |  | வரலாறு |
+| teacher.nav.communication | Communication | தொடர்பு | தொடர்பு |  | தொடர்பு |
+| teacher.nav.messages | Messages | செய்திகள் | செய்திகள் |  | செய்திகள் |
 
 ## Parent Portal Navigation
 
 | Key | English | Tamil | Gemini | OpenAI | Claude |
 |-----|---------|-------|--------|--------|--------|
-| parent.portal.title | Parent Portal | பெற்றோர் வாயில் |  |  | பெற்றோர் வாயில் |
-| parent.nav.dashboard | Dashboard | கட்டுப்பலகை |  |  | கட்டுப்பலகை |
-| parent.nav.students | Students | மாணவர்கள் |  |  | மாணவர்கள் |
-| parent.nav.myStudents | My Students | எனது மாணவர்கள் |  |  | எனது மாணவர்கள் |
-| parent.nav.registerStudent | Register Student | மாணவரைப் பதிவுசெய்க |  |  | மாணவரைப் பதிவுசெய்க |
-| parent.nav.communication | Communication | தொடர்பு |  |  | தொடர்பு |
-| parent.nav.messages | Messages | செய்திகள் |  |  | செய்திகள் |
-| parent.nav.account | Account | கணக்கு |  |  | கணக்கு |
-| parent.nav.myProfile | My Profile | எனது சுயவிவரம் |  |  | எனது சுயவிவரம் |
-| parent.nav.settings | Settings | அமைப்புகள் |  |  | அமைப்புகள் |
+| parent.portal.title | Parent Portal | பெற்றோர் வாயில் | பெற்றோர் நுழைவாயில் |  | பெற்றோர் வாயில் |
+| parent.nav.dashboard | Dashboard | கட்டுப்பலகை | கட்டுப்பாட்டுப் பலகை |  | கட்டுப்பலகை |
+| parent.nav.students | Students | மாணவர்கள் | மாணவர்கள் |  | மாணவர்கள் |
+| parent.nav.myStudents | My Students | எனது மாணவர்கள் | எனது மாணவர்கள் |  | எனது மாணவர்கள் |
+| parent.nav.registerStudent | Register Student | மாணவரைப் பதிவுசெய்க | மாணவரைப் பதிவு செய் |  | மாணவரைப் பதிவுசெய்க |
+| parent.nav.communication | Communication | தொடர்பு | தொடர்பு |  | தொடர்பு |
+| parent.nav.messages | Messages | செய்திகள் | செய்திகள் |  | செய்திகள் |
+| parent.nav.account | Account | கணக்கு | கணக்கு |  | கணக்கு |
+| parent.nav.myProfile | My Profile | எனது சுயவிவரம் | எனது சுயவிவரம் |  | எனது சுயவிவரம் |
+| parent.nav.settings | Settings | அமைப்புகள் | அமைப்புகள் |  | அமைப்புகள் |
 
 ## Common UI Elements
 
 | Key | English | Tamil | Gemini | OpenAI | Claude |
 |-----|---------|-------|--------|--------|--------|
-| common.toggleMenu | Toggle menu | பட்டியலை மாற்று |  |  | பட்டியலை மாற்று |
-| common.closeMenu | Close menu | பட்டியலை மூடு |  |  | பட்டியலை மூடு |
-| common.openMenu | Open menu | பட்டியலைத் திற |  |  | பட்டியலைத் திற |
-| common.mobileMenu | Mobile menu | மொபைல் பட்டியல் |  |  | மொபைல் பட்டியல் |
-| common.back | Back | பின் |  |  | பின் |
-| common.next | Next | அடுத்து |  |  | அடுத்து |
-| common.submit | Submit | சமர்ப்பி |  |  | சமர்ப்பி |
-| common.submitting | Submitting... | சமர்ப்பிக்கிறது... |  |  | சமர்ப்பிக்கிறது... |
-| common.add | Add | சேர் |  |  | சேர் |
-| common.edit | Edit | திருத்து |  |  | திருத்து |
-| common.delete | Delete | நீக்கு |  |  | நீக்கு |
-| common.remove | Remove | அகற்று |  |  | அகற்று |
-| common.moveLeft | Move left | இடதுபுறம் நகர்த்து |  |  | இடதுபுறம் நகர்த்து |
-| common.moveRight | Move right | வலதுபுறம் நகர்த்து |  |  | வலதுபுறம் நகர்த்து |
-| common.previousSlide | Previous slide | முந்தைய ஸ்லைடு |  |  | முந்தைய ஸ்லைடு |
-| common.nextSlide | Next slide | அடுத்த ஸ்லைடு |  |  | அடுத்த ஸ்லைடு |
-| common.goToSlide | Go to slide {number} | ஸ்லைடு {number} க்குச் செல் |  |  | ஸ்லைடு {number} க்குச் செல் |
+| common.toggleMenu | Toggle menu | பட்டியலை மாற்று | மெனுவை மாற்று |  | பட்டியலை மாற்று |
+| common.closeMenu | Close menu | பட்டியலை மூடு | மெனுவை மூடு |  | பட்டியலை மூடு |
+| common.openMenu | Open menu | பட்டியலைத் திற | மெனுவைத் திற |  | பட்டியலைத் திற |
+| common.mobileMenu | Mobile menu | மொபைல் பட்டியல் | அலைபேசி மெனு |  | மொபைல் பட்டியல் |
+| common.back | Back | பின் | பின் |  | பின் |
+| common.next | Next | அடுத்து | அடுத்து |  | அடுத்து |
+| common.submit | Submit | சமர்ப்பி | சமர்ப்பி |  | சமர்ப்பி |
+| common.submitting | Submitting... | சமர்ப்பிக்கிறது... | சமர்ப்பிக்கப்படுகிறது... |  | சமர்ப்பிக்கிறது... |
+| common.add | Add | சேர் | சேர் |  | சேர் |
+| common.edit | Edit | திருத்து | திருத்து |  | திருத்து |
+| common.delete | Delete | நீக்கு | நீக்கு |  | நீக்கு |
+| common.remove | Remove | அகற்று | அகற்று |  | அகற்று |
+| common.moveLeft | Move left | இடதுபுறம் நகர்த்து | இடதுபுறம் நகர்த்து |  | இடதுபுறம் நகர்த்து |
+| common.moveRight | Move right | வலதுபுறம் நகர்த்து | வலதுபுறம் நகர்த்து |  | வலதுபுறம் நகர்த்து |
+| common.previousSlide | Previous slide | முந்தைய ஸ்லைடு | முந்தைய பக்கம் |  | முந்தைய ஸ்லைடு |
+| common.nextSlide | Next slide | அடுத்த ஸ்லைடு | அடுத்த பக்கம் |  | அடுத்த ஸ்லைடு |
+| common.goToSlide | Go to slide {number} | ஸ்லைடு {number} க்குச் செல் | பக்கம் {number}-க்குச் செல் |  | ஸ்லைடு {number} க்குச் செல் |
 
 ## Registration Form
 
 | Key | English | Tamil | Gemini | OpenAI | Claude |
 |-----|---------|-------|--------|--------|--------|
-| register.title | Register | பதிவுசெய்க |  |  | பதிவுசெய்க |
-| register.instructions | Please complete the registration form below. If you prefer, you can also fill out the Google Form directly using the button. | கீழே உள்ள பதிவுப் படிவத்தை நிரப்பவும். நீங்கள் விரும்பினால், பொத்தானைப் பயன்படுத்தி Google படிவத்தை நேரடியாக நிரப்பலாம். |  |  | கீழே உள்ள பதிவுப் படிவத்தை நிரப்பவும். நீங்கள் விரும்பினால், பொத்தானைப் பயன்படுத்தி Google படிவத்தை நேரடியாக நிரப்பலாம். |
-| register.stepOf | Step {step} of {total} | படி {step} / {total} |  |  | படி {step} / {total} |
-| register.studentInfo | Student Information | மாணவர் தகவல் |  |  | மாணவர் தகவல் |
-| register.studentName | Student Name (First Last) | மாணவர் பெயர் (முதல் பெயர் குடும்பப் பெயர்) |  |  | மாணவர் பெயர் (முதல் பெயர் குடும்பப் பெயர்) |
-| register.studentNamePlaceholder | First Last | முதல் பெயர் குடும்பப் பெயர் |  |  | முதல் பெயர் குடும்பப் பெயர் |
-| register.studentDob | Student DOB | மாணவர் பிறந்த தேதி |  |  | மாணவர் பிறந்த தேதி |
-| register.studentDobPlaceholder | YYYY-MM-DD | YYYY-MM-DD |  |  | YYYY-MM-DD |
-| register.studentGender | Student Gender | மாணவர் பாலினம் |  |  | மாணவர் பாலினம் |
-| register.genderGirl | Girl | பெண் |  |  | பெண் |
-| register.genderBoy | Boy | ஆண் |  |  | ஆண் |
-| register.schoolInfo | School Information | பள்ளி தகவல் |  |  | பள்ளி தகவல் |
-| register.publicSchoolName | Current Public School Name | தற்போதைய பொதுப் பள்ளி பெயர் |  |  | தற்போதைய பொதுப் பள்ளி பெயர் |
-| register.publicSchoolPlaceholder | Type or paste exact school name | சரியான பள்ளி பெயரைத் தட்டச்சு செய்யவும் அல்லது ஒட்டவும் |  |  | சரியான பள்ளி பெயரைத் தட்டச்சு செய்யவும் அல்லது ஒட்டவும் |
-| register.schoolDistrict | Your School District | உங்கள் பள்ளி மாவட்டம் |  |  | உங்கள் பள்ளி மாவட்டம் |
-| register.selectDistrict | Select district | மாவட்டத்தைத் தேர்ந்தெடுக்கவும் |  |  | மாவட்டத்தைத் தேர்ந்தெடுக்கவும் |
-| register.otherSpecify | If Other, please specify | மற்றவை எனில், குறிப்பிடவும் |  |  | மற்றவை எனில், குறிப்பிடவும் |
-| register.currentGrade | Current Grade in Public School (2025-26) | பொதுப் பள்ளியில் தற்போதைய வகுப்பு (2025-26) |  |  | பொதுப் பள்ளியில் தற்போதைய வகுப்பு (2025-26) |
-| register.lastYearGrade | Last year grade in Tamil School (2024-25) | தமிழ்ப் பள்ளியில் கடந்த ஆண்டு வகுப்பு (2024-25) |  |  | தமிழ்ப் பள்ளியில் கடந்த ஆண்டு வகுப்பு (2024-25) |
-| register.enrollingGrade | Enrolling Grade in Tamil School (2025-26) | தமிழ்ப் பள்ளியில் சேரும் வகுப்பு (2025-26) |  |  | தமிழ்ப் பள்ளியில் சேரும் வகுப்பு (2025-26) |
-| register.selectGrade | Select grade | வகுப்பைத் தேர்ந்தெடுக்கவும் |  |  | வகுப்பைத் தேர்ந்தெடுக்கவும் |
-| register.parentInfo | Parent/Guardian Information | பெற்றோர்/பாதுகாவலர் தகவல் |  |  | பெற்றோர்/பாதுகாவலர் தகவல் |
-| register.motherName | Mother's Name (First Last) | தாயின் பெயர் (முதல் பெயர் குடும்பப் பெயர்) |  |  | தாயின் பெயர் (முதல் பெயர் குடும்பப் பெயர்) |
-| register.motherEmail | Mother's email | தாயின் மின்னஞ்சல் |  |  | தாயின் மின்னஞ்சல் |
-| register.motherMobile | Mother's Mobile (10 digits) | தாயின் மொபைல் (10 இலக்கங்கள்) |  |  | தாயின் மொபைல் (10 இலக்கங்கள்) |
-| register.motherEmployer | Mother's Employer (optional) | தாயின் பணியிடம் (விருப்பம்) |  |  | தாயின் பணியிடம் (விருப்பம்) |
-| register.fatherName | Father's Name (First Last) | தந்தையின் பெயர் (முதல் பெயர் குடும்பப் பெயர்) |  |  | தந்தையின் பெயர் (முதல் பெயர் குடும்பப் பெயர்) |
-| register.fatherEmail | Father's email | தந்தையின் மின்னஞ்சல் |  |  | தந்தையின் மின்னஞ்சல் |
-| register.fatherMobile | Father's Mobile (10 digits) | தந்தையின் மொபைல் (10 இலக்கங்கள்) |  |  | தந்தையின் மொபைல் (10 இலக்கங்கள்) |
-| register.fatherEmployer | Father's Employer (optional) | தந்தையின் பணியிடம் (விருப்பம்) |  |  | தந்தையின் பணியிடம் (விருப்பம்) |
-| register.homeAddress | Home Address | வீட்டு முகவரி |  |  | வீட்டு முகவரி |
-| register.street | Street name and Unit | தெரு பெயர் மற்றும் யூனிட் |  |  | தெரு பெயர் மற்றும் யூனிட் |
-| register.city | City | நகரம் |  |  | நகரம் |
-| register.zip | Zip | அஞ்சல் குறியீடு |  |  | அஞ்சல் குறியீடு |
-| register.submitRegistration | Submit Registration | பதிவை சமர்ப்பி |  |  | பதிவைச் சமர்ப்பி |
-| register.preferGoogleForm | Prefer Google Form? Open in new tab | Google படிவம் விரும்புகிறீர்களா? புதிய தாவலில் திறக்க |  |  | Google படிவம் விரும்புகிறீர்களா? புதிய தாவலில் திறக்க |
-| register.success | Registration submitted. We'll be in touch soon. | பதிவு சமர்ப்பிக்கப்பட்டது. விரைவில் தொடர்புகொள்வோம். |  |  | பதிவு சமர்ப்பிக்கப்பட்டது. விரைவில் தொடர்புகொள்வோம். |
-| register.error | Something went wrong. Please try again or use the Google Form link below. | ஏதோ தவறு நடந்தது. மீண்டும் முயற்சிக்கவும் அல்லது கீழே உள்ள Google படிவ இணைப்பைப் பயன்படுத்தவும். |  |  | ஏதோ தவறு நடந்தது. மீண்டும் முயற்சிக்கவும் அல்லது கீழே உள்ள Google படிவ இணைப்பைப் பயன்படுத்தவும். |
+| register.title | Register | பதிவுசெய்க | பதிவு செய் |  | பதிவுசெய்க |
+| register.instructions | Please complete the registration form below. If you prefer, you can also fill out the Google Form directly using the button. | கீழே உள்ள பதிவுப் படிவத்தை நிரப்பவும். நீங்கள் விரும்பினால், பொத்தானைப் பயன்படுத்தி Google படிவத்தை நேரடியாக நிரப்பலாம். | தயவுசெய்து கீழே உள்ள பதிவுப் படிவத்தைப் பூர்த்தி செய்யவும். நீங்கள் விரும்பினால், பட்டனைப் பயன்படுத்தி நேரடியாக கூகுள் படிவத்தை நிரப்பலாம். |  | கீழே உள்ள பதிவுப் படிவத்தை நிரப்பவும். நீங்கள் விரும்பினால், பொத்தானைப் பயன்படுத்தி Google படிவத்தை நேரடியாக நிரப்பலாம். |
+| register.stepOf | Step {step} of {total} | படி {step} / {total} | படி {step} / {total} |  | படி {step} / {total} |
+| register.studentInfo | Student Information | மாணவர் தகவல் | மாணவர் தகவல் |  | மாணவர் தகவல் |
+| register.studentName | Student Name (First Last) | மாணவர் பெயர் (முதல் பெயர் குடும்பப் பெயர்) | மாணவர் பெயர் (முதல் பெயர் கடைசி பெயர்) |  | மாணவர் பெயர் (முதல் பெயர் குடும்பப் பெயர்) |
+| register.studentNamePlaceholder | First Last | முதல் பெயர் குடும்பப் பெயர் | முதல் பெயர் கடைசி பெயர் |  | முதல் பெயர் குடும்பப் பெயர் |
+| register.studentDob | Student DOB | மாணவர் பிறந்த தேதி | மாணவர் பிறந்த தேதி |  | மாணவர் பிறந்த தேதி |
+| register.studentDobPlaceholder | YYYY-MM-DD | YYYY-MM-DD | வருடம்-மாதம்-தேதி |  | YYYY-MM-DD |
+| register.studentGender | Student Gender | மாணவர் பாலினம் | மாணவர் பாலினம் |  | மாணவர் பாலினம் |
+| register.genderGirl | Girl | பெண் | பெண் |  | பெண் |
+| register.genderBoy | Boy | ஆண் | ஆண் |  | ஆண் |
+| register.schoolInfo | School Information | பள்ளி தகவல் | பள்ளி தகவல் |  | பள்ளி தகவல் |
+| register.publicSchoolName | Current Public School Name | தற்போதைய பொதுப் பள்ளி பெயர் | தற்போதைய பொதுப் பள்ளியின் பெயர் |  | தற்போதைய பொதுப் பள்ளி பெயர் |
+| register.publicSchoolPlaceholder | Type or paste exact school name | சரியான பள்ளி பெயரைத் தட்டச்சு செய்யவும் அல்லது ஒட்டவும் | பள்ளியின் பெயரைத் தட்டச்சு செய்யவும் அல்லது ஒட்டவும் |  | சரியான பள்ளி பெயரைத் தட்டச்சு செய்யவும் அல்லது ஒட்டவும் |
+| register.schoolDistrict | Your School District | உங்கள் பள்ளி மாவட்டம் | உங்கள் பள்ளி மாவட்டம் |  | உங்கள் பள்ளி மாவட்டம் |
+| register.selectDistrict | Select district | மாவட்டத்தைத் தேர்ந்தெடுக்கவும் | மாவட்டத்தைத் தேர்ந்தெடுக்கவும் |  | மாவட்டத்தைத் தேர்ந்தெடுக்கவும் |
+| register.otherSpecify | If Other, please specify | மற்றவை எனில், குறிப்பிடவும் | மற்றவை என்றால், குறிப்பிடவும் |  | மற்றவை எனில், குறிப்பிடவும் |
+| register.currentGrade | Current Grade in Public School (2025-26) | பொதுப் பள்ளியில் தற்போதைய வகுப்பு (2025-26) | பொதுப் பள்ளியில் தற்போதைய வகுப்பு (2025-26) |  | பொதுப் பள்ளியில் தற்போதைய வகுப்பு (2025-26) |
+| register.lastYearGrade | Last year grade in Tamil School (2024-25) | தமிழ்ப் பள்ளியில் கடந்த ஆண்டு வகுப்பு (2024-25) | தமிழ்ப் பள்ளியில் கடந்த ஆண்டு வகுப்பு (2024-25) |  | தமிழ்ப் பள்ளியில் கடந்த ஆண்டு வகுப்பு (2024-25) |
+| register.enrollingGrade | Enrolling Grade in Tamil School (2025-26) | தமிழ்ப் பள்ளியில் சேரும் வகுப்பு (2025-26) | தமிழ்ப் பள்ளியில் சேரும் வகுப்பு (2025-26) |  | தமிழ்ப் பள்ளியில் சேரும் வகுப்பு (2025-26) |
+| register.selectGrade | Select grade | வகுப்பைத் தேர்ந்தெடுக்கவும் | வகுப்பைத் தேர்ந்தெடுக்கவும் |  | வகுப்பைத் தேர்ந்தெடுக்கவும் |
+| register.parentInfo | Parent/Guardian Information | பெற்றோர்/பாதுகாவலர் தகவல் | பெற்றோர்/பாதுகாவலர் தகவல் |  | பெற்றோர்/பாதுகாவலர் தகவல் |
+| register.motherName | Mother's Name (First Last) | தாயின் பெயர் (முதல் பெயர் குடும்பப் பெயர்) | தாயின் பெயர் (முதல் பெயர் கடைசி பெயர்) |  | தாயின் பெயர் (முதல் பெயர் குடும்பப் பெயர்) |
+| register.motherEmail | Mother's email | தாயின் மின்னஞ்சல் | தாயின் மின்னஞ்சல் |  | தாயின் மின்னஞ்சல் |
+| register.motherMobile | Mother's Mobile (10 digits) | தாயின் மொபைல் (10 இலக்கங்கள்) | தாயின் அலைபேசி எண் (10 இலக்கங்கள்) |  | தாயின் மொபைல் (10 இலக்கங்கள்) |
+| register.motherEmployer | Mother's Employer (optional) | தாயின் பணியிடம் (விருப்பம்) | தாயின் பணியிடம் (விருப்பத்தேர்வு) |  | தாயின் பணியிடம் (விருப்பம்) |
+| register.fatherName | Father's Name (First Last) | தந்தையின் பெயர் (முதல் பெயர் குடும்பப் பெயர்) | தந்தையின் பெயர் (முதல் பெயர் கடைசி பெயர்) |  | தந்தையின் பெயர் (முதல் பெயர் குடும்பப் பெயர்) |
+| register.fatherEmail | Father's email | தந்தையின் மின்னஞ்சல் | தந்தையின் மின்னஞ்சல் |  | தந்தையின் மின்னஞ்சல் |
+| register.fatherMobile | Father's Mobile (10 digits) | தந்தையின் மொபைல் (10 இலக்கங்கள்) | தந்தையின் அலைபேசி எண் (10 இலக்கங்கள்) |  | தந்தையின் மொபைல் (10 இலக்கங்கள்) |
+| register.fatherEmployer | Father's Employer (optional) | தந்தையின் பணியிடம் (விருப்பம்) | தந்தையின் பணியிடம் (விருப்பத்தேர்வு) |  | தந்தையின் பணியிடம் (விருப்பம்) |
+| register.homeAddress | Home Address | வீட்டு முகவரி | வீட்டு முகவரி |  | வீட்டு முகவரி |
+| register.street | Street name and Unit | தெரு பெயர் மற்றும் யூனிட் | தெரு பெயர் மற்றும் கதவு எண் |  | தெரு பெயர் மற்றும் யூனிட் |
+| register.city | City | நகரம் | நகரம் |  | நகரம் |
+| register.zip | Zip | அஞ்சல் குறியீடு | அஞ்சல் குறியீடு |  | அஞ்சல் குறியீடு |
+| register.submitRegistration | Submit Registration | பதிவை சமர்ப்பி | பதிவைச் சமர்ப்பி |  | பதிவைச் சமர்ப்பி |
+| register.preferGoogleForm | Prefer Google Form? Open in new tab | Google படிவம் விரும்புகிறீர்களா? புதிய தாவலில் திறக்க | கூகுள் படிவத்தை விரும்புகிறீர்களா? புதிய தாவலில் திறக்கவும் |  | Google படிவம் விரும்புகிறீர்களா? புதிய தாவலில் திறக்க |
+| register.success | Registration submitted. We'll be in touch soon. | பதிவு சமர்ப்பிக்கப்பட்டது. விரைவில் தொடர்புகொள்வோம். | பதிவு சமர்ப்பிக்கப்பட்டது. விரைவில் உங்களைத் தொடர்பு கொள்வோம். |  | பதிவு சமர்ப்பிக்கப்பட்டது. விரைவில் தொடர்புகொள்வோம். |
+| register.error | Something went wrong. Please try again or use the Google Form link below. | ஏதோ தவறு நடந்தது. மீண்டும் முயற்சிக்கவும் அல்லது கீழே உள்ள Google படிவ இணைப்பைப் பயன்படுத்தவும். | ஏதோ தவறு நடந்துவிட்டது. மீண்டும் முயற்சிக்கவும் அல்லது கீழே உள்ள கூகுள் படிவ இணைப்பைப் பயன்படுத்தவும். |  | ஏதோ தவறு நடந்தது. மீண்டும் முயற்சிக்கவும் அல்லது கீழே உள்ள Google படிவ இணைப்பைப் பயன்படுத்தவும். |
 
 ## Signup Form
 
 | Key | English | Tamil | Gemini | OpenAI | Claude |
 |-----|---------|-------|--------|--------|--------|
-| signup.namePlaceholder | John Doe | ராஜா ராணி |  |  | ராஜா ராணி |
-| signup.emailPlaceholder | you@example.com | you@example.com |  |  | you@example.com |
-| signup.passwordHint | At least 6 characters | குறைந்தது 6 எழுத்துகள் |  |  | குறைந்தது 6 எழுத்துகள் |
-| signup.confirmPasswordPlaceholder | Re-enter password | கடவுச்சொல்லை மீண்டும் உள்ளிடவும் |  |  | கடவுச்சொல்லை மீண்டும் உள்ளிடவும் |
+| signup.namePlaceholder | John Doe | ராஜா ராணி | செல்வன்/செல்வி |  | ராஜா ராணி |
+| signup.emailPlaceholder | you@example.com | you@example.com | you@example.com |  | you@example.com |
+| signup.passwordHint | At least 6 characters | குறைந்தது 6 எழுத்துகள் | குறைந்தபட்சம் 6 எழுத்துக்கள் |  | குறைந்தது 6 எழுத்துகள் |
+| signup.confirmPasswordPlaceholder | Re-enter password | கடவுச்சொல்லை மீண்டும் உள்ளிடவும் | கடவுச்சொல்லை மீண்டும் உள்ளிடவும் |  | கடவுச்சொல்லை மீண்டும் உள்ளிடவும் |
 
 ## Enrollment Form
 
 | Key | English | Tamil | Gemini | OpenAI | Claude |
 |-----|---------|-------|--------|--------|--------|
-| enrollment.noStudentAlert | You need to add a student profile before enrolling in classes. | வகுப்புகளில் சேர்வதற்கு முன் மாணவர் சுயவிவரத்தை சேர்க்க வேண்டும். |  |  | வகுப்புகளில் சேர்வதற்கு முன் மாணவர் சுயவிவரத்தைச் சேர்க்க வேண்டும். |
-| enrollment.addStudent | Add a student | மாணவரைச் சேர் |  |  | மாணவரைச் சேர் |
-| enrollment.selectStudent | -- Select a student -- | -- மாணவரைத் தேர்ந்தெடுக்கவும் -- |  |  | -- மாணவரைத் தேர்ந்தெடுக்கவும் -- |
-| enrollment.selectClass | -- Select a class -- | -- வகுப்பைத் தேர்ந்தெடுக்கவும் -- |  |  | -- வகுப்பைத் தேர்ந்தெடுக்கவும் -- |
-| enrollment.fullWaitlist | Full - Will be added to waitlist | நிரம்பியது - காத்திருப்புப் பட்டியலில் சேர்க்கப்படும் |  |  | நிரம்பியது - காத்திருப்புப் பட்டியலில் சேர்க்கப்படும் |
-| enrollment.spotsAvailable | {count} spots available | {count} இடங்கள் உள்ளன |  |  | {count} இடங்கள் உள்ளன |
-| enrollment.additionalNotes | Additional Notes (Optional) | கூடுதல் குறிப்புகள் (விருப்பம்) |  |  | கூடுதல் குறிப்புகள் (விருப்பம்) |
-| enrollment.notesPlaceholder | Any special requests or information... | ஏதேனும் சிறப்புக் கோரிக்கைகள் அல்லது தகவல்கள்... |  |  | ஏதேனும் சிறப்புக் கோரிக்கைகள் அல்லது தகவல்கள்... |
-| enrollment.waitlistSuccess | {student} has been added to the waitlist for {class}. You will be notified when a spot becomes available. | {student} {class} க்கான காத்திருப்புப் பட்டியலில் சேர்க்கப்பட்டார். இடம் கிடைக்கும்போது உங்களுக்கு தெரிவிக்கப்படும். |  |  | {student} {class} க்கான காத்திருப்புப் பட்டியலில் சேர்க்கப்பட்டார். இடம் கிடைக்கும்போது உங்களுக்குத் தெரிவிக்கப்படும். |
-| enrollment.submitSuccess | Application submitted successfully for {student} to {class}. Status: {status} | {student} க்கான {class} விண்ணப்பம் வெற்றிகரமாக சமர்ப்பிக்கப்பட்டது. நிலை: {status} |  |  | {student} க்கான {class} விண்ணப்பம் வெற்றிகரமாகச் சமர்ப்பிக்கப்பட்டது. நிலை: {status} |
+| enrollment.noStudentAlert | You need to add a student profile before enrolling in classes. | வகுப்புகளில் சேர்வதற்கு முன் மாணவர் சுயவிவரத்தை சேர்க்க வேண்டும். | வகுப்புகளில் சேருவதற்கு முன்பு மாணவர் சுயவிவரத்தைச் சேர்க்க வேண்டும். |  | வகுப்புகளில் சேர்வதற்கு முன் மாணவர் சுயவிவரத்தைச் சேர்க்க வேண்டும். |
+| enrollment.addStudent | Add a student | மாணவரைச் சேர் | ஒரு மாணவரைச் சேர் |  | மாணவரைச் சேர் |
+| enrollment.selectStudent | -- Select a student -- | -- மாணவரைத் தேர்ந்தெடுக்கவும் -- | -- மாணவரைத் தேர்ந்தெடுக்கவும் -- |  | -- மாணவரைத் தேர்ந்தெடுக்கவும் -- |
+| enrollment.selectClass | -- Select a class -- | -- வகுப்பைத் தேர்ந்தெடுக்கவும் -- | -- வகுப்பைத் தேர்ந்தெடுக்கவும் -- |  | -- வகுப்பைத் தேர்ந்தெடுக்கவும் -- |
+| enrollment.fullWaitlist | Full - Will be added to waitlist | நிரம்பியது - காத்திருப்புப் பட்டியலில் சேர்க்கப்படும் | இடம் நிறைந்துவிட்டது - காத்திருப்புப் பட்டியலில் சேர்க்கப்படுவீர்கள் |  | நிரம்பியது - காத்திருப்புப் பட்டியலில் சேர்க்கப்படும் |
+| enrollment.spotsAvailable | {count} spots available | {count} இடங்கள் உள்ளன | {count} இடங்கள் உள்ளன |  | {count} இடங்கள் உள்ளன |
+| enrollment.additionalNotes | Additional Notes (Optional) | கூடுதல் குறிப்புகள் (விருப்பம்) | கூடுதல் குறிப்புகள் (விருப்பத்தேர்வு) |  | கூடுதல் குறிப்புகள் (விருப்பம்) |
+| enrollment.notesPlaceholder | Any special requests or information... | ஏதேனும் சிறப்புக் கோரிக்கைகள் அல்லது தகவல்கள்... | ஏதேனும் சிறப்புக் கோரிக்கைகள் அல்லது தகவல்கள்... |  | ஏதேனும் சிறப்புக் கோரிக்கைகள் அல்லது தகவல்கள்... |
+| enrollment.waitlistSuccess | {student} has been added to the waitlist for {class}. You will be notified when a spot becomes available. | {student} {class} க்கான காத்திருப்புப் பட்டியலில் சேர்க்கப்பட்டார். இடம் கிடைக்கும்போது உங்களுக்கு தெரிவிக்கப்படும். | {student}, {class} வகுப்பிற்கான காத்திருப்புப் பட்டியலில் சேர்க்கப்பட்டுள்ளார். இடம் கிடைக்கும்போது உங்களுக்கு அறிவிக்கப்படும். |  | {student} {class} க்கான காத்திருப்புப் பட்டியலில் சேர்க்கப்பட்டார். இடம் கிடைக்கும்போது உங்களுக்குத் தெரிவிக்கப்படும். |
+| enrollment.submitSuccess | Application submitted successfully for {student} to {class}. Status: {status} | {student} க்கான {class} விண்ணப்பம் வெற்றிகரமாக சமர்ப்பிக்கப்பட்டது. நிலை: {status} | {student}-ன் {class} வகுப்பு விண்ணப்பம் வெற்றிகரமாகச் சமர்ப்பிக்கப்பட்டது. நிலை: {status} |  | {student} {class} க்கான {class} விண்ணப்பம் வெற்றிகரமாகச் சமர்ப்பிக்கப்பட்டது. நிலை: {status} |
 
 ## Image Upload
 
 | Key | English | Tamil | Gemini | OpenAI | Claude |
 |-----|---------|-------|--------|--------|--------|
-| imageUpload.clickOrDrag | Click or drag to upload image | படத்தைப் பதிவேற்ற கிளிக் செய்யவும் அல்லது இழுக்கவும் |  |  | படத்தைப் பதிவேற்ற கிளிக் செய்யவும் அல்லது இழுக்கவும் |
-| imageUpload.clickOrDragMultiple | Click or drag images here | படங்களை இங்கே கிளிக் செய்யவும் அல்லது இழுக்கவும் |  |  | படங்களை இங்கே கிளிக் செய்யவும் அல்லது இழுக்கவும் |
-| imageUpload.sizeLimit | PNG, JPG, GIF up to 10MB | PNG, JPG, GIF 10MB வரை |  |  | PNG, JPG, GIF 10MB வரை |
-| imageUpload.sizeLimitMultiple | PNG, JPG, GIF up to 10MB each ({count}/{max}) | PNG, JPG, GIF ஒவ்வொன்றும் 10MB வரை ({count}/{max}) |  |  | PNG, JPG, GIF ஒவ்வொன்றும் 10MB வரை ({count}/{max}) |
-| imageUpload.uploading | Uploading... | பதிவேற்றுகிறது... |  |  | பதிவேற்றுகிறது... |
-| imageUpload.imageDetails | Image details | படத் தகவல்கள் |  |  | படத் தகவல்கள் |
-| imageUpload.altTextEn | Alt text (English) | Alt உரை (ஆங்கிலம்) |  |  | Alt உரை (ஆங்கிலம்) |
-| imageUpload.altTextTa | Alt text (Tamil) | Alt உரை (தமிழ்) |  |  | Alt உரை (தமிழ்) |
-| imageUpload.maxImages | Maximum {count} image(s) allowed | அதிகபட்சம் {count} படம்/படங்கள் அனுமதிக்கப்படும் |  |  | அதிகபட்சம் {count} படம்/படங்கள் அனுமதிக்கப்படும் |
+| imageUpload.clickOrDrag | Click or drag to upload image | படத்தைப் பதிவேற்ற கிளிக் செய்யவும் அல்லது இழுக்கவும் | படத்தைப் பதிவேற்ற இங்கே கிளிக் செய்யவும் அல்லது இழுத்து வரவும் |  | படத்தைப் பதிவேற்ற கிளிக் செய்யவும் அல்லது இழுக்கவும் |
+| imageUpload.clickOrDragMultiple | Click or drag images here | படங்களை இங்கே கிளிக் செய்யவும் அல்லது இழுக்கவும் | படங்களை இங்கே கிளிக் செய்யவும் அல்லது இழுத்து வரவும் |  | படங்களை இங்கே கிளிக் செய்யவும் அல்லது இழுக்கவும் |
+| imageUpload.sizeLimit | PNG, JPG, GIF up to 10MB | PNG, JPG, GIF 10MB வரை | PNG, JPG, GIF (10MB வரை) |  | PNG, JPG, GIF 10MB வரை |
+| imageUpload.sizeLimitMultiple | PNG, JPG, GIF up to 10MB each ({count}/{max}) | PNG, JPG, GIF ஒவ்வொன்றும் 10MB வரை ({count}/{max}) | PNG, JPG, GIF (தலா 10MB வரை) ({count}/{max}) |  | PNG, JPG, GIF ஒவ்வொன்றும் 10MB வரை ({count}/{max}) |
+| imageUpload.uploading | Uploading... | பதிவேற்றுகிறது... | பதிவேற்றப்படுகிறது... |  | பதிவேற்றுகிறது... |
+| imageUpload.imageDetails | Image details | படத் தகவல்கள் | பட விவரங்கள் |  | படத் தகவல்கள் |
+| imageUpload.altTextEn | Alt text (English) | Alt உரை (ஆங்கிலம்) | மாற்று உரை (ஆங்கிலம்) |  | Alt உரை (ஆங்கிலம்) |
+| imageUpload.altTextTa | Alt text (Tamil) | Alt உரை (தமிழ்) | மாற்று உரை (தமிழ்) |  | Alt உரை (தமிழ்) |
+| imageUpload.maxImages | Maximum {count} image(s) allowed | அதிகபட்சம் {count} படம்/படங்கள் அனுமதிக்கப்படும் | அதிகபட்சம் {count} படங்கள் அனுமதிக்கப்படும் |  | அதிகபட்சம் {count} படம்/படங்கள் அனுமதிக்கப்படும் |
 
 ## Rich Text Editor
 
 | Key | English | Tamil | Gemini | OpenAI | Claude |
 |-----|---------|-------|--------|--------|--------|
-| editor.placeholder | Start writing... | எழுதத் தொடங்குங்கள்... |  |  | எழுதத் தொடங்குங்கள்... |
-| editor.bold | Bold | தடிமன் |  |  | தடிமன் |
-| editor.italic | Italic | சாய்வு |  |  | சாய்வு |
-| editor.underline | Underline | அடிக்கோடு |  |  | அடிக்கோடு |
-| editor.strikethrough | Strikethrough | வெட்டுக்கோடு |  |  | வெட்டுக்கோடு |
-| editor.heading1 | Heading 1 | தலைப்பு 1 |  |  | தலைப்பு 1 |
-| editor.heading2 | Heading 2 | தலைப்பு 2 |  |  | தலைப்பு 2 |
-| editor.heading3 | Heading 3 | தலைப்பு 3 |  |  | தலைப்பு 3 |
-| editor.bulletList | Bullet List | புள்ளிப் பட்டியல் |  |  | புள்ளிப் பட்டியல் |
-| editor.numberedList | Numbered List | எண் பட்டியல் |  |  | எண் பட்டியல் |
-| editor.quote | Quote | மேற்கோள் |  |  | மேற்கோள் |
-| editor.codeBlock | Code Block | குறியீடு தொகுதி |  |  | குறியீடு தொகுதி |
-| editor.addLink | Add Link | இணைப்பைச் சேர் |  |  | இணைப்பைச் சேர் |
-| editor.addImage | Add Image | படத்தைச் சேர் |  |  | படத்தைச் சேர் |
-| editor.undo | Undo | செயல்தவிர் |  |  | செயல்தவிர் |
-| editor.redo | Redo | மீண்டும்செய் |  |  | மீண்டும்செய் |
+| editor.placeholder | Start writing... | எழுதத் தொடங்குங்கள்... | எழுதத் தொடங்குங்கள்... |  | எழுதத் தொடங்குங்கள்... |
+| editor.bold | Bold | தடிமன் | தடிமன் |  | தடிமன் |
+| editor.italic | Italic | சாய்வு | சாய்வு |  | சாய்வு |
+| editor.underline | Underline | அடிக்கோடு | அடிக்கோடு |  | அடிக்கோடு |
+| editor.strikethrough | Strikethrough | வெட்டுக்கோடு | நடுப்பக்கக் கோடு |  | வெட்டுக்கோடு |
+| editor.heading1 | Heading 1 | தலைப்பு 1 | தலைப்பு 1 |  | தலைப்பு 1 |
+| editor.heading2 | Heading 2 | தலைப்பு 2 | தலைப்பு 2 |  | தலைப்பு 2 |
+| editor.heading3 | Heading 3 | தலைப்பு 3 | தலைப்பு 3 |  | தலைப்பு 3 |
+| editor.bulletList | Bullet List | புள்ளிப் பட்டியல் | பொட்டுப் பட்டியல் |  | புள்ளிப் பட்டியல் |
+| editor.numberedList | Numbered List | எண் பட்டியல் | எண் பட்டியல் |  | எண் பட்டியல் |
+| editor.quote | Quote | மேற்கோள் | மேற்கோள் |  | மேற்கோள் |
+| editor.codeBlock | Code Block | குறியீடு தொகுதி | குறியீடுத் தொகுதி |  | குறியீடு தொகுதி |
+| editor.addLink | Add Link | இணைப்பைச் சேர் | இணைப்பைச் சேர் |  | இணைப்பைச் சேர் |
+| editor.addImage | Add Image | படத்தைச் சேர் | படத்தைச் சேர் |  | படத்தைச் சேர் |
+| editor.undo | Undo | செயல்தவிர் | செயல் நீக்கம் (Undo) |  | செயல்தவிர் |
+| editor.redo | Redo | மீண்டும்செய் | மீண்டும் செய் (Redo) |  | மீண்டும்செய் |
 
 ## Admin Calendar Events
 
 | Key | English | Tamil | Gemini | OpenAI | Claude |
 |-----|---------|-------|--------|--------|--------|
-| admin.calendar.titlePlaceholder | e.g., Pongal Celebration | எ.கா., பொங்கல் கொண்டாட்டம் |  |  | எ.கா., பொங்கல் கொண்டாட்டம் |
-| admin.calendar.titlePlaceholderTa | e.g., பொங்கல் விழா | எ.கா., பொங்கல் விழா |  |  | எ.கா., பொங்கல் விழா |
-| admin.calendar.locationPlaceholder | e.g., Main Hall | எ.கா., பிரதான மண்டபம் |  |  | எ.கா., பிரதான மண்டபம் |
-| admin.calendar.descriptionPlaceholder | Add event description... | நிகழ்வு விவரணையைச் சேர்க்கவும்... |  |  | நிகழ்வு விவரணையைச் சேர்க்கவும்... |
-| admin.calendar.descriptionPlaceholderTa | நிகழ்வு விவரணை... | நிகழ்வு விவரணை... |  |  | நிகழ்வு விவரணை... |
+| admin.calendar.titlePlaceholder | e.g., Pongal Celebration | எ.கா., பொங்கல் கொண்டாட்டம் | எ.கா: பொங்கல் கொண்டாட்டம் |  | எ.கா., பொங்கல் கொண்டாட்டம் |
+| admin.calendar.titlePlaceholderTa | e.g., பொங்கல் விழா | எ.கா., பொங்கல் விழா | எ.கா: பொங்கல் விழா |  | எ.கா., பொங்கல் விழா |
+| admin.calendar.locationPlaceholder | e.g., Main Hall | எ.கா., பிரதான மண்டபம் | எ.கா: முதன்மை அரங்கம் |  | எ.கா., பிரதான மண்டபம் |
+| admin.calendar.descriptionPlaceholder | Add event description... | நிகழ்வு விவரணையைச் சேர்க்கவும்... | நிகழ்வு விவரத்தைச் சேர்க்கவும்... |  | நிகழ்வு விவரணையைச் சேர்க்கவும்... |
+| admin.calendar.descriptionPlaceholderTa | நிகழ்வு விவரணை... | நிகழ்வு விவரணை... | நிகழ்வு விவரணை... |  | நிகழ்வு விவரணை... |
 
 ## Admin Classes
 
 | Key | English | Tamil | Gemini | OpenAI | Claude |
 |-----|---------|-------|--------|--------|--------|
-| admin.classes.namePlaceholder | e.g., PS-1 Class A, Grade-5 Saturday | எ.கா., PS-1 வகுப்பு A, தரம்-5 சனிக்கிழமை |  |  | எ.கா., PS-1 வகுப்பு A, தரம்-5 சனிக்கிழமை |
-| admin.classes.codePlaceholder | e.g., B01, B02 | எ.கா., B01, B02 |  |  | எ.கா., B01, B02 |
-| admin.classes.schedulePlaceholder | e.g., 10:00 AM - 12:00 PM | எ.கா., 10:00 AM - 12:00 PM |  |  | எ.கா., 10:00 AM - 12:00 PM |
-| admin.classes.yearPlaceholder | e.g., 2024-2025 | எ.கா., 2024-2025 |  |  | எ.கா., 2024-2025 |
+| admin.classes.namePlaceholder | e.g., PS-1 Class A, Grade-5 Saturday | எ.கா., PS-1 வகுப்பு A, தரம்-5 சனிக்கிழமை | எ.கா: PS-1 வகுப்பு A, தரம்-5 சனிக்கிழமை |  | எ.கா., PS-1 வகுப்பு A, தரம்-5 சனிக்கிழமை |
+| admin.classes.codePlaceholder | e.g., B01, B02 | எ.கா., B01, B02 | எ.கா: B01, B02 |  | எ.கா., B01, B02 |
+| admin.classes.schedulePlaceholder | e.g., 10:00 AM - 12:00 PM | எ.கா., 10:00 AM - 12:00 PM | எ.கா: முற்பகல் 10:00 - நண்பகல் 12:00 |  | எ.கா., 10:00 AM - 12:00 PM |
+| admin.classes.yearPlaceholder | e.g., 2024-2025 | எ.கா., 2024-2025 | எ.கா: 2024-2025 |  | எ.கா., 2024-2025 |
 
 ## Admin Students
 
 | Key | English | Tamil | Gemini | OpenAI | Claude |
 |-----|---------|-------|--------|--------|--------|
-| admin.students.firstNamePlaceholder | Enter first name | முதல் பெயரை உள்ளிடவும் |  |  | முதல் பெயரை உள்ளிடவும் |
-| admin.students.lastNamePlaceholder | Enter last name | குடும்பப் பெயரை உள்ளிடவும் |  |  | குடும்பப் பெயரை உள்ளிடவும் |
-| admin.students.gradePlaceholder | e.g., 3rd Grade | எ.கா., 3வது வகுப்பு |  |  | எ.கா., 3வது வகுப்பு |
-| admin.students.schoolPlaceholder | Enter school name | பள்ளி பெயரை உள்ளிடவும் |  |  | பள்ளி பெயரை உள்ளிடவும் |
-| admin.students.medicalNotesPlaceholder | Enter any medical notes or allergies | மருத்துவக் குறிப்புகள் அல்லது ஒவ்வாமைகளை உள்ளிடவும் |  |  | மருத்துவக் குறிப்புகள் அல்லது ஒவ்வாமைகளை உள்ளிடவும் |
+| admin.students.firstNamePlaceholder | Enter first name | முதல் பெயரை உள்ளிடவும் | முதல் பெயரை உள்ளிடவும் |  | முதல் பெயரை உள்ளிடவும் |
+| admin.students.lastNamePlaceholder | Enter last name | குடும்பப் பெயரை உள்ளிடவும் | கடைசி பெயரை உள்ளிடவும் |  | குடும்பப் பெயரை உள்ளிடவும் |
+| admin.students.gradePlaceholder | e.g., 3rd Grade | எ.கா., 3வது வகுப்பு | எ.கா: 3-ஆம் வகுப்பு |  | எ.கா., 3வது வகுப்பு |
+| admin.students.schoolPlaceholder | Enter school name | பள்ளி பெயரை உள்ளிடவும் | பள்ளியின் பெயரை உள்ளிடவும் |  | பள்ளி பெயரை உள்ளிடவும் |
+| admin.students.medicalNotesPlaceholder | Enter any medical notes or allergies | மருத்துவக் குறிப்புகள் அல்லது ஒவ்வாமைகளை உள்ளிடவும் | மருத்துவக் குறிப்புகள் அல்லது ஒவ்வாமைகளை உள்ளிடவும் |  | மருத்துவக் குறிப்புகள் அல்லது ஒவ்வாமைகளை உள்ளிடவும் |
 
 ## Admin Teachers
 
 | Key | English | Tamil | Gemini | OpenAI | Claude |
 |-----|---------|-------|--------|--------|--------|
-| admin.teachers.primaryAssigned | Primary teacher assigned | முதன்மை ஆசிரியர் நியமிக்கப்பட்டார் |  |  | முதன்மை ஆசிரியர் நியமிக்கப்பட்டார் |
-| admin.teachers.noPrimary | No primary teacher | முதன்மை ஆசிரியர் இல்லை |  |  | முதன்மை ஆசிரியர் இல்லை |
+| admin.teachers.primaryAssigned | Primary teacher assigned | முதன்மை ஆசிரியர் நியமிக்கப்பட்டார் | முதன்மை ஆசிரியர் நியமிக்கப்பட்டார் |  | முதன்மை ஆசிரியர் நியமிக்கப்பட்டார் |
+| admin.teachers.noPrimary | No primary teacher | முதன்மை ஆசிரியர் இல்லை | முதன்மை ஆசிரியர் இல்லை |  | முதன்மை ஆசிரியர் இல்லை |
 
 ## Admin Feature Flags
 
 | Key | English | Tamil | Gemini | OpenAI | Claude |
 |-----|---------|-------|--------|--------|--------|
-| admin.featureFlags.adminFeatures | Admin Features | நிர்வாக அம்சங்கள் |  |  | நிர்வாக அம்சங்கள் |
-| admin.featureFlags.teacherFeatures | Teacher Features | ஆசிரியர் அம்சங்கள் |  |  | ஆசிரியர் அம்சங்கள் |
-| admin.featureFlags.parentFeatures | Parent Features | பெற்றோர் அம்சங்கள் |  |  | பெற்றோர் அம்சங்கள் |
+| admin.featureFlags.adminFeatures | Admin Features | நிர்வாக அம்சங்கள் | நிர்வாக வசதிகள் |  | நிர்வாக அம்சங்கள் |
+| admin.featureFlags.teacherFeatures | Teacher Features | ஆசிரியர் அம்சங்கள் | ஆசிரியர் வசதிகள் |  | ஆசிரியர் அம்சங்கள் |
+| admin.featureFlags.parentFeatures | Parent Features | பெற்றோர் அம்சங்கள் | பெற்றோர் வசதிகள் |  | பெற்றோர் அம்சங்கள் |
 
 ## Admin News
 
 | Key | English | Tamil | Gemini | OpenAI | Claude |
 |-----|---------|-------|--------|--------|--------|
-| admin.news.pinned | Pinned | பொருத்தப்பட்டது |  |  | பொருத்தப்பட்டது |
+| admin.news.pinned | Pinned | பொருத்தப்பட்டது | பின் செய்யப்பட்டது |  | பொருத்தப்பட்டது |
 
 ## Footer & Accessibility
 
 | Key | English | Tamil | Gemini | OpenAI | Claude |
 |-----|---------|-------|--------|--------|--------|
-| footer.logoAlt | GSDTA logo | GSDTA லோகோ |  |  | GSDTA லோகோ |
-| footer.social.facebook | Facebook | Facebook |  |  | Facebook |
-| footer.social.twitter | Twitter | Twitter |  |  | Twitter |
-| footer.social.instagram | Instagram | Instagram |  |  | Instagram |
-| footer.social.linkedin | LinkedIn | LinkedIn |  |  | LinkedIn |
+| footer.logoAlt | GSDTA logo | GSDTA லோகோ | GSDTA இலச்சினை |  | GSDTA லோகோ |
+| footer.social.facebook | Facebook | Facebook | பேஸ்புக் |  | Facebook |
+| footer.social.twitter | Twitter | Twitter | ட்விட்டர் |  | Twitter |
+| footer.social.instagram | Instagram | Instagram | இன்ஸ்டாகிராம் |  | Instagram |
+| footer.social.linkedin | LinkedIn | LinkedIn | லிங்க்டுஇன் |  | LinkedIn |
 
 ## Home Page Components
 
 | Key | English | Tamil | Gemini | OpenAI | Claude |
 |-----|---------|-------|--------|--------|--------|
-| home.stats.studentsGrowing | 200 students and growing | 200 மாணவர்கள், வளர்ந்து வருகிறது |  |  | 200 மாணவர்கள், வளர்ந்து வருகிறது |
-| home.stats.teachers | 45 teachers | 45 ஆசிரியர்கள் |  |  | 45 ஆசிரியர்கள் |
-| home.stats.experience | 200+ years of cumulative experience in running school | பள்ளி நடத்துவதில் 200+ ஆண்டுகள் கூட்டு அனுபவம் |  |  | பள்ளி நடத்துவதில் 200+ ஆண்டுகள் கூட்டு அனுபவம் |
-| home.stats.volunteers | 25+ non-teaching volunteers | 25+ கற்பிக்காத தன்னார்வலர்கள் |  |  | 25+ கற்பிக்காத தன்னார்வலர்கள் |
-| home.thirukkural.showEvent | Show event {index} | நிகழ்வு {index} காட்டு |  |  | நிகழ்வு {index} காட்டு |
-| home.thirukkural.showThirukkural | Show Thirukkural | திருக்குறள் காட்டு |  |  | திருக்குறள் காட்டு |
-| home.thirukkural.goHome | Go to Home | முகப்புக்குச் செல் |  |  | முகப்புக்குச் செல் |
+| home.stats.studentsGrowing | 200 students and growing | 200 மாணவர்கள், வளர்ந்து வருகிறது | 200-க்கும் மேற்பட்ட மாணவர்கள், எண்ணிக்கை வளர்ந்து வருகிறது |  | 200 மாணவர்கள், வளர்ந்து வருகிறது |
+| home.stats.teachers | 45 teachers | 45 ஆசிரியர்கள் | 45 ஆசிரியர்கள் |  | 45 ஆசிரியர்கள் |
+| home.stats.experience | 200+ years of cumulative experience in running school | பள்ளி நடத்துவதில் 200+ ஆண்டுகள் கூட்டு அனுபவம் | பள்ளி நிர்வாகத்தில் 200+ ஆண்டுகாலக் கூட்டு அனுபவம் |  | பள்ளி நடத்துவதில் 200+ ஆண்டுகள் கூட்டு அனுபவம் |
+| home.stats.volunteers | 25+ non-teaching volunteers | 25+ கற்பிக்காத தன்னார்வலர்கள் | 25+ கற்பித்தல் அல்லாத தன்னார்வலர்கள் |  | 25+ கற்பிக்காத தன்னார்வலர்கள் |
+| home.thirukkural.showEvent | Show event {index} | நிகழ்வு {index} காட்டு | நிகழ்வு {index}-ஐக் காட்டு |  | நிகழ்வு {index} காட்டு |
+| home.thirukkural.showThirukkural | Show Thirukkural | திருக்குறள் காட்டு | திருக்குறளைக் காட்டு |  | திருக்குறள் காட்டு |
+| home.thirukkural.goHome | Go to Home | முகப்புக்குச் செல் | முகப்பிற்குச் செல் |  | முகப்புக்குச் செல் |
 
 ## Attendance
 
 | Key | English | Tamil | Gemini | OpenAI | Claude |
 |-----|---------|-------|--------|--------|--------|
-| attendance.notesPlaceholder | Optional notes... | விருப்பக் குறிப்புகள்... |  |  | விருப்பக் குறிப்புகள்... |
+| attendance.notesPlaceholder | Optional notes... | விருப்பக் குறிப்புகள்... | குறிப்புகள் (விருப்பத்தேர்வு)... |  | விருப்பக் குறிப்புகள்... |
